@@ -72,6 +72,14 @@ cd server
 npm run dev
 ```
 
+## 界面预览
+
+![登录界面](./img/login.png)
+
+![注册界面](./img/register.png)
+
+![编辑器界面](./img/editor.png)
+
 ## 使用方法
 1. 打开浏览器，访问 `http://localhost:3000`。
 2. 注册新用户（默认隐藏了注册页，访问 `/register` 进行注册）或使用已有账户登录。
